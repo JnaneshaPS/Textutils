@@ -37,7 +37,7 @@ export default function About(props) {
           >
             <div className="accordion-body" style={myStyle}>
               Textutils gives you a way to analyze your text quickly and
-              efficiently. Be it word count, character count
+              efficiently. Be it word count, character counts
             </div>
           </div>
         </div>
